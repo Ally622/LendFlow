@@ -56,8 +56,8 @@ During the 50 days I will:
 - [x] Repository cloned locally
 - [x] Project structure created
 - [x] `.gitignore` created
-- [ ] Project goals documented
-- [ ] First project commit
+- [x] Project goals documented
+- [x] First project commit
 
 ## Final Goal
 
